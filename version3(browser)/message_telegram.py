@@ -1,6 +1,9 @@
 import requests
 
 def send_message(str):
+    # Telegram bot channel link
+    # https://t.me/Bitcoin_Lautaro_bot
+    
     # Set the Telegram API token.
     apiToken = "6602698817:AAHUeZzSpDMvlYJ5QdlcgA8RhEBnY4cp8UY"
 
