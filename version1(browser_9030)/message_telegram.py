@@ -2,7 +2,7 @@ import requests
 
 def send_message(str):
     # Set the Telegram API token.
-    apiToken = "6602698817:AAHUeZzSpDMvlYJ5QdlcgA8RhEBnY4cp8UY"
+    apiToken = "Your token"
 
     # Set the chat ID of the channel you want to send the message to.
     chatID1 = "6360011882"
